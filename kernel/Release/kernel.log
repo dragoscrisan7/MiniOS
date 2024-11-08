@@ -1,0 +1,15 @@
+﻿  Performing Custom Build Tools
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:104: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:138: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:143: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:148: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  logging.c
+  main.c
+  screen.c
+  Generating Code...
+  kernel.vcxproj -> C:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\Release\kernel.exe
+          1 file(s) copied.
