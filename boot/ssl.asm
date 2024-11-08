@@ -1,3 +1,4 @@
+%define break xchg bx, bx
 
 BYTES_IN_SECTOR                    equ 512
 SECTORS_IN_HEAD                    equ 18

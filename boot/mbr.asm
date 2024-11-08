@@ -1,3 +1,5 @@
+%define break xchg bx, bx  ; magic breakpoint in bochs
+
 segment .text
  
 [bits 16]                   
