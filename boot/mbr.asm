@@ -1,4 +1,4 @@
-%define break xchg bx, bx  ; magic breakpoint in bochs
+segment .text
  
 [bits 16]                   
 [org 7C00h]                ; because the MBR is loaded at 7C00h and runs in 16-bit Real Mode            

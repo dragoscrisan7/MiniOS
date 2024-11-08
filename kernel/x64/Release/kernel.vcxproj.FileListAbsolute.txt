@@ -1,0 +1,1 @@
+c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\x64\Release\kernel.exe

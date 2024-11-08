@@ -1,0 +1,18 @@
+﻿  Performing Custom Build Tools
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:130: warning: symbol `ASMEntryPoint': GLOBAL directive after symbol definition is an experimental feature
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:130: warning: symbol `__cli': GLOBAL directive after symbol definition is an experimental feature
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:130: warning: symbol `__sti': GLOBAL directive after symbol definition is an experimental feature
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:130: warning: symbol `__magic': GLOBAL directive after symbol definition is an experimental feature
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:130: warning: symbol `__enableSSE': GLOBAL directive after symbol definition is an experimental feature
+  c:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  logging.c
+  main.c
+  screen.c
+  Generating Code...
+LINK : warning LNK4281: undesirable base address 0x200000 for x64 image; set base address above 4GB for best ASLR optimization
+  kernel.vcxproj -> C:\Users\Public\Documents\Master\Sem 1\PSMA\Laboratories\Lab1-3\MiniOS\kernel\x64\Release\kernel.exe
+          1 file(s) copied.

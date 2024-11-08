@@ -1,4 +1,3 @@
-%define break xchg bx, bx
 
 BYTES_IN_SECTOR                    equ 512
 SECTORS_IN_HEAD                    equ 18
@@ -7,6 +6,8 @@ CYLINDER_MBR_SSL                   equ 1
 TOTAL_KERNEL_CYLINDERS             equ 6
 LAST_KERNEL_CYLINDER               equ CYLINDER_MBR_SSL + TOTAL_KERNEL_CYLINDERS
 DMA_BOUNDARY_ALERT                 equ 0xDC00 ; 0xDC00 + 0x2400 == 0x10000 and DMA gives boundary error
+
+segment .text
 
 [org 0x7E00]
 [bits 16]
